@@ -17,8 +17,6 @@ import java.util.Optional;
 @RestController
 @RequestMapping(value = "/digitalfreight/test")
 public class AElfServiceController extends BaseController {
-//    @Autowired
-//    private AElfService aelfService;
 
     @ApiOperation(value = "获取块高")
     //@ApiImplicitParam(name = "name", value = "演员姓名", paramType = "String")

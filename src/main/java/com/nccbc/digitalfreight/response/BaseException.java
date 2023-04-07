@@ -1,8 +1,5 @@
 package com.nccbc.digitalfreight.response;
 
-import lombok.Data;
-
-@Data
 public class BaseException extends RuntimeException{
 
     private String code;

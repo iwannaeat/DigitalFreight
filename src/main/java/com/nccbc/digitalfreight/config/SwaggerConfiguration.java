@@ -21,7 +21,7 @@ public class SwaggerConfiguration {
                 "DigitalFreight API Document",
                 "Api Documentation",
                 "V-1.0",
-                "http://www.baidu.com",
+                "https://iwannaeat.github.io/",
                 DEFAULT_CONTACT,
                 "Apache 2.0",
                 "http://www.apache.org/licenses/LICENSE-2.0",
